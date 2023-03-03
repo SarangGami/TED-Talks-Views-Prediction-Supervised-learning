@@ -1,16 +1,16 @@
 ![Best-TED-Talks-From-The-Curator-Himself--1200x582](https://user-images.githubusercontent.com/121340232/222759494-ce2b643d-332f-433a-8fe0-191a18e9ae9a.jpg)
 
-# **Project Summary :**
+# **Project Summary :-**
 
-### Objective : 
+## Objective : 
 - The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
 
-### Dataset info :
+## Dataset info :
 
 * 1.Number of records: 4,005
 * 2.Number of features: 19
 
-### The dataset contains features like:
+## The dataset contains features like:
 
 * **`talk_id:`** A unique identifier for each TED Talk video.
 * **`title:`** The title of the talk.
@@ -30,11 +30,12 @@
 * **`description:`** A brief description of the talk.
 * **`transcript:`** A transcript of the talk.
 
-### Target Variable :
+## Target Variable :
+
 * **`views:`** The number of views the video has received.
 
 
-# **Project Work flow :**
+# **Project Work flow :-**
 
 - **Importing Neccessary Libraries**
 - **Data Wrangling**
@@ -64,7 +65,7 @@
 
 
 
-# **Algorithms used for ML model implementation :**
+# **Algorithms used for ML model implementation :-**
 
 * **`Linear Regression`**
 * **`Ridge Regression(L2)`**
@@ -81,7 +82,7 @@
 
 # **Best Model to Achieve our Objective :-**
 
-### RandomForest with hyperparameter tuning
+### **🥇 RandomForestRegressor with hyperparameter tuning 🥇**
 
 `Training data R2 and Adjusted R2 Score`
 - R2 score 0.9107
@@ -98,7 +99,6 @@
 - MAE 0.2612
 - MSE 0.1050
 - RMSE 0.3241
-
 
 
 ### **Click [here](https://github.com/SarangGami/TED-Talks-Views-Prediction-Supervised-learning/blob/main/TED_Talks_Views_Prediction_Supervised_learning_project.ipynb) to view the solution of Capstone Project TED Talks Views Prediction Supervised learning**
