@@ -1,7 +1,6 @@
 ![Best-TED-Talks-From-The-Curator-Himself--1200x582](https://user-images.githubusercontent.com/121340232/222759494-ce2b643d-332f-433a-8fe0-191a18e9ae9a.jpg)
 
 # **Project Summary :**
-----------------------------
 
 ### Objective : 
 - The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
@@ -33,12 +32,11 @@
 
 ### Target Variable :
 * **`views:`** The number of views the video has received.
-----------------------------
+
 
 # **Project Work flow :**
 
 - **Importing Neccessary Libraries**
-
 - **Data Wrangling**
 
 ```
@@ -65,7 +63,7 @@
 - **Conclusion**
 
 
-----------------------------
+
 # **Algorithms used for ML model implementation :**
 
 * **`Linear Regression`**
@@ -80,7 +78,7 @@
 * **`StackingRegressor`**
 
 
-----------------------------
+
 # **Best Model to Achieve our Objective :-**
 
 ### RandomForest with hyperparameter tuning
