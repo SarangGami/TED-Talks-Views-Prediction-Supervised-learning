@@ -33,7 +33,7 @@
 ## Target Variable :
 
 * **`views:`** The number of views the video has received.
-
+<br/>
 
 # **Project Work flow :-**
 
@@ -62,7 +62,7 @@
 - **Fitting the regression models and HyperParameter Tuning**
 - **Final selection of the model**
 - **Conclusion**
-
+<br/>
 
 
 # **Algorithms used for ML model implementation :-**
@@ -77,7 +77,7 @@
 * **`XGBRegressor`**
 * **`VotingRegressor`**
 * **`StackingRegressor`**
-
+<br/>
 
 
 # **Best Model to Achieve our Objective :-**
@@ -99,6 +99,6 @@
 - MAE 0.2612
 - MSE 0.1050
 - RMSE 0.3241
-
+<br/>
 
 ### **Click [here](https://github.com/SarangGami/TED-Talks-Views-Prediction-Supervised-learning/blob/main/TED_Talks_Views_Prediction_Supervised_learning_project.ipynb) to view the solution of Capstone Project TED Talks Views Prediction Supervised learning**
