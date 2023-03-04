@@ -1,4 +1,7 @@
-![Best-TED-Talks-From-The-Curator-Himself--1200x582](https://user-images.githubusercontent.com/121340232/222759494-ce2b643d-332f-433a-8fe0-191a18e9ae9a.jpg)
+
+![Best-TED-Talks](https://user-images.githubusercontent.com/121340232/222876908-29b7f7fd-8e77-430c-8f05-19b1e112919b.jpg)
+
+
 
 # **Project Summary :-**
 
