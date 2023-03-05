@@ -95,25 +95,50 @@
 <br/>
 
 
-# **Best Model to Achieve our Objective :-**
+# **Best Models to Achieve our Objective :-**
 
-### **🥇 RandomForestRegressor with hyperparameter tuning 🥇**
+### --------------------------------------**🥇 RandomForestRegressor with hyperparameter tuning 🥇**--------------------------------------
+
+![random forest pipeline](https://user-images.githubusercontent.com/121340232/222968115-997876e0-cc63-4127-9438-ab68873dfda4.png)
 
 `Training data R2 and Adjusted R2 Score`
-- R2 score 0.9107
-- Adjusted R2 score 0.9105
+- R2 score 0.9108
+- Adjusted R2 score 0.9106
 
 `Testing data R2 and Adjusted R2 Score`
-- R2 score 0.8982
-- Adjusted R2 score 0.8973
+- R2 score 0.8977
+- Adjusted R2 score 0.8968
 
 `Cross-validation score`
-- 0.8976
+- 0.8974
 
 `The performance metrics`
-- MAE 0.2612
-- MSE 0.1050
-- RMSE 0.3241
+- MAE 0.2613
+- MSE 0.1055
+- RMSE 0.3249
+
+
+### -----------------------------------------**🥈 VotingRegressor with hyperparameter tuning 🥈**-----------------------------------------
+
+
+![voting regressor pipeline](https://user-images.githubusercontent.com/121340232/222968529-96114d90-388a-419e-a835-df3d4f2dcb61.png)
+
+`Training data R2 and Adjusted R2 Score`
+- R2 score 0.9109
+- Adjusted R2 score 0.9107
+
+`Testing data R2 and Adjusted R2 Score`
+- R2 score 0.8981
+- Adjusted R2 score 0.8972
+
+`Cross-validation score`
+- 0.8977
+
+`The performance metrics`
+- MAE 0.2615
+- MSE 0.1051
+- RMSE 0.3243
 <br/>
 
-### **Click [here](https://github.com/SarangGami/TED-Talks-Views-Prediction-Supervised-learning/blob/main/TED_Talks_Views_Prediction_Supervised_learning_project.ipynb) to view the solution of Capstone Project TED Talks Views Prediction Supervised learning**
+
+### **click [here](https://github.com/SarangGami/TED-Talks-Views-Prediction-Supervised-learning/blob/main/TED_Talks_Views_Prediction_Supervised_learning_project.ipynb) To access the solution of the Capstone Project on TED Talks Views Prediction using Supervised Learning, which includes the usage of 10 different algorithms with detailed explanations and conclusions.**
