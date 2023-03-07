@@ -97,7 +97,8 @@
 
 # **Best Models to Achieve our Objective :-**
 
-### --------------------------------------**🥇 RandomForestRegressor with hyperparameter tuning 🥇**--------------------------------------
+
+<h3 align="center">🥇 RandomForestRegressor with hyperparameter tuning 🥇</h3>
 
 ![random forest pipeline](https://user-images.githubusercontent.com/121340232/222968115-997876e0-cc63-4127-9438-ab68873dfda4.png)
 
@@ -118,8 +119,7 @@
 - RMSE 0.3249
 
 
-### -----------------------------------------**🥈 VotingRegressor with hyperparameter tuning 🥈**-----------------------------------------
-
+<h3 align="center">🥈 VotingRegressor with hyperparameter tuning 🥈</h3>
 
 ![voting regressor pipeline](https://user-images.githubusercontent.com/121340232/222968529-96114d90-388a-419e-a835-df3d4f2dcb61.png)
 
