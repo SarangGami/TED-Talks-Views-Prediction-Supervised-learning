@@ -142,3 +142,9 @@
 
 
 ### **click [here](https://github.com/SarangGami/TED-Talks-Views-Prediction-Supervised-learning/blob/main/TED_Talks_Views_Prediction_Supervised_learning_project.ipynb) To access the solution of the Capstone Project on TED Talks Views Prediction using Supervised Learning, which includes the usage of 10 different algorithms with detailed explanations and conclusions.**
+</br>
+
+
+## **CERTIFICATE**
+
+![69473499840043](https://user-images.githubusercontent.com/121340232/224471050-ecf14b70-21d4-4407-bdf7-ac6a7511d747.png)
